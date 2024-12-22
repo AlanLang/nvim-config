@@ -7,6 +7,14 @@ local command_center_config = function()
     {
       desc = "marks list all",
       cmd = "<cmd>MarksListAll<CR>"
+    },
+    {
+      desc = "list commands",
+      cmd = "<cmd>:Telescope commands<CR>",
+    },
+    {
+      desc = "list notify",
+      cmd = "<cmd>:Telescope notify<CR>",
     }
   })
 end
