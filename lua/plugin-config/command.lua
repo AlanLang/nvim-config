@@ -15,6 +15,10 @@ local command_center_config = function()
     {
       desc = "list notify",
       cmd = "<cmd>:Telescope notify<CR>",
+    },
+    {
+      desc = "list colorscheme",
+      cmd = "<cmd>:Telescope colorscheme<CR>",
     }
   })
 end
