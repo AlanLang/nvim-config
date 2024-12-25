@@ -1,4 +1,11 @@
 return {
-  -- 主题
-  "alanlang/oceanic-next",
+  {
+    "projekt0n/github-nvim-theme",
+  },
+  {
+    "sainnhe/everforest",
+  },
+  {
+    "catppuccin/nvim"
+  }
 }
