@@ -3,3 +3,4 @@ return {
     lspconfig.bitbake_language_server.setup({})
   end,
 }
+
